@@ -26,6 +26,7 @@ J J
 5 3 2
 2 3 5
 B B
+
 */
 #include<bits/stdc++.h>
 using namespace std;
